@@ -14,7 +14,7 @@ Puis cloner votre fork sur votre PC (avec VSCode).
 
 ## Principe du TP
 
-- [**X**] Chochez les checkbox quand demandé et/ou répondez directement dans ce document.
+- [] Chochez les checkbox quand demandé et/ou répondez directement dans ce document.
 - Suivre les indications sur les commits et autres manipulation.
 
 L'historique git de vos commits sera la preuve que vous avez fait le TP.
@@ -28,24 +28,24 @@ Le fichier `.gitignore` sert à indiquer à Git les fichiers qu'il doit ignorer 
 - Installez l'extension _".gitignore Generator"_ .
 - L'utiliser (`Shift+CMD+P` Generate .gitignore File).
   - Faire un fichier `.gitignore` en sélectionnant :
-    - [X] windows
-    - [X] macos
-    - [X] visualstudiocode
-- [X] cocher et faire commit "ajout .gitignore"
+    - [] windows
+    - [] macos
+    - [] visualstudiocode
+- [] cocher et faire commit "ajout .gitignore"
 
 ## ajout manuel à `.gitignore`
 
 - Faire un fichier `/public/video/a-ignorer.txt`
 - Ajouter en fin de fichier `.gitignore` la ligne suivante :
   - `/public/video`
-- [X] cocher et commit "ajout dossier à .gitignore"
+- [] cocher et commit "ajout dossier à .gitignore"
 - Synchroniser les commit avec Github
   - constater que le fichier `/public/video/a-ignorer.txt` n'a pas été publié sur Github
 
 # Conflits
 
-- [X] Depuis le site Github (le dépôt "distant"), utiliser le bouton éditer ✏ pour cocher cette case. Avec "edit depuis Github", comme message de commit.
-- [X] Cochez cette case depuis VSCode (le dépôt sur votre PC). Faire un commit "edit local"
+- [] Depuis le site Github (le dépôt "distant"), utiliser le bouton éditer ✏ pour cocher cette case. Avec "edit depuis Github", comme message de commit.
+- [] Cochez cette case depuis VSCode (le dépôt sur votre PC). Faire un commit "edit local"
 - Demandez à VSCode de synchroniser.
   - Cela doit echouer.
   - Faire `Shift+CMD+P` Git: Pull (rebase)
@@ -120,7 +120,7 @@ Exemple :
 
 # Remonter dans le temps pour trouver un "bug"
 
-- [X] décochez cette case et commit : "le bug"
+- [] décochez cette case et commit : "le bug"
 - _message à modifier plus tard_
 -
 -
