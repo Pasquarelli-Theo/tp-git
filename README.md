@@ -28,10 +28,10 @@ Le fichier `.gitignore` sert à indiquer à Git les fichiers qu'il doit ignorer 
 - Installez l'extension _".gitignore Generator"_ .
 - L'utiliser (`Shift+CMD+P` Generate .gitignore File).
   - Faire un fichier `.gitignore` en sélectionnant :
-    - [] windows
-    - [] macos
-    - [] visualstudiocode
-- [] cocher et faire commit "ajout .gitignore"
+    - [**x**] windows
+    - [**x**] macos
+    - [**x**] visualstudiocode
+- [**x**] cocher et faire commit "ajout .gitignore"
 
 ## ajout manuel à `.gitignore`
 
